@@ -37,16 +37,16 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-.atharva, .kaabil {
+.Harshal, .Gaikwad {
     font-family: 'Inter', sans-serif;
     color: white; 
-}
+} 
 
-.atharva {
+.Harshal {
     margin-bottom: 0;
 }
 
-.kaabil {
+.Gaikwad {
     margin-top: -3px;
 }
 
@@ -368,10 +368,10 @@ background: linear-gradient(90deg, rgba(109,0,251,1) 0%, rgba(57,185,158,1) 0%, 
         margin-right: 4px;
     }
 
-    .atharva{
+    .Harshal{
         font-size: 20px;
     }
-    .kaabil{
+    .Gaikwad{
         font-size: 10px;
     }
 
